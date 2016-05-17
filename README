@@ -1,4 +1,4 @@
-push after readonly on updateremotebranch
+pushes to updateremotebranch
 Arnaud - branchongitdev
 
 PyBugz - Python Bugzilla Interface
